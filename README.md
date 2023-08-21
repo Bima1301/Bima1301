@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Yanuar Bima - Full-Stack Developer</title>
-</head>
-<body>
 
 <h1 align="center">Hi 👋, I'm Yanuar Bima</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia</h3>
@@ -42,6 +36,3 @@
 </p>
 </div>
 
-
-</body>
-</html>
