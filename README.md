@@ -27,7 +27,7 @@
   <div style="display: flex; flex-direction: row; justify-content: space-around;">
      <p >
     <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bima1301&theme=tokyonight-duo" alt="Bima" />
+    <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Bima1301&theme=tokyonight-duo" alt="Bima" />
     </a>
     </p>
     
