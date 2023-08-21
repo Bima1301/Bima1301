@@ -32,6 +32,6 @@
     </p>
     
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bima1301&show_icons=true&locale=en&layout=compact" alt="bima1301" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bima1301&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bima1301" />
 </p>
   </div>
