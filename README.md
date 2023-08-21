@@ -24,14 +24,12 @@
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bima1301&theme=algolia" alt="bima1301" /></a> </p>
 
-  <div style="display: flex; flex-direction: row; justify-content: space-around;">
-     <p >
+<p align="left"  >
     <a href="https://git.io/streak-stats">
-    <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Bima1301&theme=tokyonight-duo" alt="Bima" />
+      <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Bima1301&theme=tokyonight-duo" alt="Bima" />
     </a>
-    </p>
+</p>
     
-<p>
+<p align="right" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bima1301&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bima1301" />
 </p>
-  </div>
