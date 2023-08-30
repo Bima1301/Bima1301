@@ -8,7 +8,7 @@
   <strong>🌱 I’m currently learning:</strong> Typescript, Prisma, Vue<br>
   <strong>💬 Ask me about:</strong> React, Laravel, Next<br>
   <strong>📫 How to reach me:</strong> bima.aji1380@gmail.com<br>
-  <strong>📄 Know about my experiences:</strong> <a href="https://bimayanuar.vercel.app/">https:/bimayanuar.vercel.app/</a>
+  <strong>📄 Know about my experiences:</strong> <a href="https://bimayanuar.vercel.app/">https://bimayanuar.vercel.app/</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
