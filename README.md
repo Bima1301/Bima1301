@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yanuar Bima</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia</h3>
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
 <p align="left" style="padding-top: 25px"> 
   <strong>🔭 I’m currently working on:</strong> <a href="https://metamata.id/">Metamata</a><br>
