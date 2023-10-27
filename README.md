@@ -4,7 +4,7 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
 <p align="left" style="padding-top: 25px"> 
-  <strong>🔭 I’m currently working on:</strong> <a href="https://metamata.id/">Metamata</a><br>
+  <strong>🔭 I’m currently working on:</strong> <a href="https://nodewave.id/">Nodewave</a><br>
   <strong>🌱 I’m currently learning:</strong> Typescript, Prisma, Vue<br>
   <strong>💬 Ask me about:</strong> React, Laravel, Next<br>
   <strong>📫 How to reach me:</strong> bima.aji1380@gmail.com<br>
