@@ -5,8 +5,8 @@
 
 <p align="left" style="padding-top: 25px"> 
   <strong>🔭 I’m currently working on:</strong> <a href="https://nodewave.id/">Nodewave</a><br>
-  <strong>🌱 I’m currently learning:</strong> Typescript, Prisma, Vue<br>
-  <strong>💬 Ask me about:</strong> React, Laravel, Next<br>
+  <strong>🌱 I’m currently learning:</strong> Typescript, Prisma, NextJs<br>
+  <strong>💬 Ask me about:</strong> React, Laravel<br>
   <strong>📫 How to reach me:</strong> bima.aji1380@gmail.com<br>
   <strong>📄 Know about my experiences:</strong> <a href="https://bimayanuar.vercel.app/">https://bimayanuar.vercel.app/</a>
 </p>
