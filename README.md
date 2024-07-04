@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/yanuar-bimantoro-aji-874232196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yanuar-bimantoro-aji-874232196" height="30" width="40" /></a>
   <a href="https://fb.com/yanuar.bimantoro.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yanuar.bimantoro.3" height="30" width="40" /></a>
   <a href="https://instagram.com/@yanuar.bimantoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@yanuar.bimantoro" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/yanuar bima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yanuar bima" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/yanuar bima](https://www.youtube.com/channel/UCQSXsAgDR_0z9_mBD8ItuBQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yanuar bima" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
