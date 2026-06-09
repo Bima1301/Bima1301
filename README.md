@@ -4,7 +4,7 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
 <p align="left" style="padding-top: 25px"> 
-  <strong>🔭 I’m currently working at:</strong> <a href="https://nodewave.id/">Nodewave</a><br>
+  <strong>🔭 I’m currently working at:</strong> <a href="https://akasia.id">Akasia</a><br>
   <strong>🌱 I’m currently learning:</strong> Flutter, Expo <br>
   <strong>💬 Ask me about:</strong> NextJs, Laravel <br>
   <strong>📫 How to reach me:</strong> bima.aji1380@gmail.com<br>
