@@ -23,7 +23,7 @@
 
 ### Currently
 
-Back End Developer @ **Akasia** — building financial-grade systems & banking integrations.
+Software Developer @ **Taiwan Mobile** — building Meeting AI systems & banking integrations.
 
 ### Elsewhere
 
